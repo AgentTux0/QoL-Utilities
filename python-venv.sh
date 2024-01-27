@@ -2,6 +2,7 @@
 #
 # This file contains functions and aliases that simplifies creation, activation, and deactivation
 # of Python's virtual environments (venv).
+# The functions and aliases should be added to your .bashrc (or similar) file.
 #
 # Author: Alexander Roaas
 
